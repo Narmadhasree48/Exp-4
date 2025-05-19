@@ -6,7 +6,7 @@ To develop the Hospital management System using Star UML tool.
 To create Hospital Management System software that will meet the needs of the applicant and help them with patient registration, booking medical services or appointments, modification in the database, and cancellation of registered appointments or services.
 # DIAGRAMS:
 # Use CLass Diagram:
-![image](https://github.com/user-attachments/assets/6b52fb4b-23f9-42a0-b705-c4a68da77c5d)
+![image](https://github.com/user-attachments/assets/458414ef-9747-461e-92e6-9aa74a184bac)
 # Class diagram:
 ![image](https://github.com/user-attachments/assets/27568ee4-d0fd-464b-883f-1c8ede4b3da1)
 # Activity diagram:
